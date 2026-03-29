@@ -1,6 +1,6 @@
 # 刘泉杉 · Quan-Shan Liu
 
-**英国曼彻斯特大学电子电气工程博士在读**，研究方向为光子集成与半导体量测表征。以下项目是我将 AI 作为效率杠杆的个人实践——在不编写代码的情况下，通过与 Claude、Codex、Gemini 持续协作，完成从需求定义到云端部署的全流程交付。
+**英国曼彻斯特大学电子电气工程博士在读**，研究方向为光学系统集成与半导体量测表征。以下项目是我将 AI 作为效率杠杆的个人实践——在不编写代码的情况下，通过与 Claude、Codex、Gemini 持续协作，完成从需求定义到云端部署的全流程交付。
 
 **PhD candidate in Electrical & Electronic Engineering at The University of Manchester**, specialising in photonic integration and semiconductor metrology. The projects below represent my personal practice of using AI as a force multiplier — delivering end-to-end applications through structured LLM collaboration, without writing code directly.
 
