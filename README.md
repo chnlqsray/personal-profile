@@ -32,7 +32,7 @@ AI-augmented spectral analysis workspace for semiconductor photoluminescence res
 
 ---
 
-**自动化运维基础设施：[应用保活](https://github.com/chnlqsray/finance_app_cloud); [ETF 日报](https://github.com/chnlqsray/etf_daily_report); [作品集 PDF](https://github.com/chnlqsray/chnlqsray.github.io)**
+**自动化运维基础设施：[应用保活](https://github.com/chnlqsray/finance_app_cloud) · [ETF 日报](https://github.com/chnlqsray/etf_daily_report) · [作品集 PDF](https://github.com/chnlqsray/chnlqsray.github.io)**
 
 GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）。
 
