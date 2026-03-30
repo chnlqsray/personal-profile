@@ -34,9 +34,9 @@ AI-augmented spectral analysis workspace for semiconductor photoluminescence res
 
 **[自动化运维基础设施](https://github.com/chnlqsray/etf_daily_report)**
 
-GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）。
+GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）+ 作品集 PDF 导出（复用同一 Playwright 环境构建脚本化导出方案）。
 
-Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + ETF daily email report (weekday scheduled delivery).
+Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + ETF daily email report (weekday scheduled delivery) + Portfolio PDF export (reused the existing Playwright environment to script bilingual PDF generation).
 
 ---
 
