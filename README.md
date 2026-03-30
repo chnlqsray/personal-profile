@@ -32,11 +32,15 @@ AI-augmented spectral analysis workspace for semiconductor photoluminescence res
 
 ---
 
-**[自动化运维基础设施](https://github.com/chnlqsray/etf_daily_report)**
+**自动化运维基础设施：[应用保活]([https://github.com/chnlqsray/etf_daily_report](https://github.com/chnlqsray/finance_app_cloud)); [ETF 日报](https://github.com/chnlqsray/etf_daily_report); [作品集 PDF]([https://github.com/chnlqsray/etf_daily_report](https://github.com/chnlqsray/chnlqsray.github.io))**
 
-GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）+ 作品集 PDF 导出（复用同一 Playwright 环境构建脚本化导出方案）。
+GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）。
+
+作品集 PDF 导出：复用同一 Playwright 环境构建脚本化导出方案，规避浏览器虚拟打印机的位图渲染限制，支持中英双语版本一键批量生成。
 
 Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + ETF daily email report (weekday scheduled delivery) + Portfolio PDF export (reused the existing Playwright environment to script bilingual PDF generation).
+
+Portfolio PDF export: Reused the existing Playwright environment to script bilingual PDF generation, bypassing virtual print driver bitmap-rasterisation limitations, with one-command output for both language versions
 
 ---
 
