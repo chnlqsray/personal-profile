@@ -8,7 +8,7 @@
 
 ## 项目 · Projects
 
-**[美股智能投研仪表盘](https://github.com/chnlqsray/finance_app_cloud)** · [🌐 Streamlit](https://my-finance-ai.streamlit.app/) · [🤗 HuggingFace](https://huggingface.co/spaces/chnlqsray/finance-dashboard) · [▶ YouTube](https://youtu.be/oHZ3-8EK-4U) · [▶ Bilibili](https://www.bilibili.com/video/BV1WScyzDEtX/)
+**[美股智能投研仪表盘](https://github.com/chnlqsray/finance_app_cloud)** · [🌐 Streamlit](https://my-finance-ai.streamlit.app/) · [🤗 HuggingFace](https://huggingface.co/spaces/chnlqsray/finance-dashboard) · [▶ YouTube](https://youtu.be/5YCtdb15YWs) · [▶ Bilibili](https://www.bilibili.com/video/BV1WScyzDEtX/)
 
 CrewAI 多智能体 + RAG 知识库，自动生成四节式中文投研报告。
 
@@ -16,7 +16,7 @@ Multi-agent equity research dashboard using CrewAI + FAISS RAG, generating struc
 
 ---
 
-**[电影雷达](https://github.com/chnlqsray/movie_app_cloud)** · [🌐 Streamlit](https://my-movie-ai.streamlit.app/) · [🤗 HuggingFace](https://huggingface.co/spaces/chnlqsray/movie-radar) · [▶ YouTube](https://youtu.be/nY3jBSJbu5g) · [▶ Bilibili](https://www.bilibili.com/video/BV1WScyzDED9/)
+**[电影雷达](https://github.com/chnlqsray/movie_app_cloud)** · [🌐 Streamlit](https://my-movie-ai.streamlit.app/) · [🤗 HuggingFace](https://huggingface.co/spaces/chnlqsray/movie-radar) · [▶ YouTube](https://youtu.be/OkK7aCUJT_Y) · [▶ Bilibili](https://www.bilibili.com/video/BV1WScyzDED9/)
 
 TMDB 五维搜索 + Groq，生成学术级深度电影百科。
 
@@ -24,7 +24,7 @@ Movie discovery and deep-analysis platform with TMDB multi-factor retrieval and 
 
 ---
 
-**[GaN PL 智能分析平台](https://github.com/chnlqsray/ganpl-analysis)** · [▶ YouTube](https://youtu.be/JHJoTHOIp70) · [▶ Bilibili](https://www.bilibili.com/video/BV1ZWXSBeE9P/)
+**[GaN PL 智能分析平台](https://github.com/chnlqsray/ganpl-analysis)** · [▶ YouTube](https://youtu.be/PGWuGbAADsk) · [▶ Bilibili](https://www.bilibili.com/video/BV1ZWXSBeE9P/)
 
 面向半导体光谱研究的 AI 增强分析工作台，覆盖从原始 SPF2 文件解析到 AI 辅助论文写作的完整链路。
 
