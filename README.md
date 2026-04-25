@@ -32,18 +32,22 @@ AI-augmented spectral analysis workspace for semiconductor photoluminescence res
 
 ---
 
+**[PDF 知识库问答助手](https://github.com/chnlqsray/local_rag)** · [▶ YouTube](https://youtu.be/XN7PRk3rHyU) · [▶ Bilibili](https://www.bilibili.com/video/BV18eoSBYEDH/)
+
+本地优先私有文档问答系统：PDF 向量化持久化至 FAISS，四级文本提取 fallback（含 OCR），多层检索增强 + 参数题专项处理 + 自动续写，引用可追溯，多 Provider LLM，跨会话 JSONL 持久化。
+
+Local-first private document QA: PDFs vectorised into persistent FAISS, four-level text extraction (including OCR), multi-layer retrieval + parameter-question specialisation + auto-continuation, traceable citations, multi-provider LLM, cross-session JSONL persistence.
+
+---
+
 **自动化运维基础设施：[应用保活](https://github.com/chnlqsray/finance_app_cloud) · [ETF 日报](https://github.com/chnlqsray/etf_daily_report) · [作品集 PDF](https://github.com/chnlqsray/chnlqsray.github.io)**
 
-GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）。
+GitHub Actions 双工作流：应用保活系统（Playwright，每 6 小时）+ ETF 每日邮件日报（工作日定时推送）+ 作品集 PDF 批量导出（复用 Playwright，规避浏览器虚拟打印机限制）。
 
-Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + ETF daily email report (weekday scheduled delivery) + Portfolio PDF export (reused the existing Playwright environment to script bilingual PDF generation).
-
-作品集 PDF 导出：复用同一 Playwright 环境构建脚本化导出方案，规避浏览器虚拟打印机的位图渲染限制，支持中英双语版本一键批量生成。
-
-Portfolio PDF export: Reused the existing Playwright environment to script bilingual PDF generation, bypassing virtual print driver bitmap-rasterisation limitations, with one-command output for both language versions
+Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + ETF daily email report (weekday scheduled) + portfolio PDF export (reusing Playwright to bypass virtual print driver limitations, bilingual one-command output).
 
 ---
 
 ## 联系 · Contact
 
-📬 uklqsray@163.com · [Portfolio (Notion)](https://chnlqsray-ai-project.notion.site/AI-3213da042d978062a5cbec6d9b37e13a)
+📬 uklqsray@163.com · [Portfolio](https://chnlqsray.github.io/) · [Notion](https://chnlqsray-ai-project.notion.site/AI-3213da042d978062a5cbec6d9b37e13a)
