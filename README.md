@@ -50,4 +50,4 @@ Dual GitHub Actions workflows: keep-alive system (Playwright, every 6 hours) + E
 
 ## 联系 · Contact
 
-📬 uklqsray@163.com · [Portfolio](https://chnlqsray.github.io/) · [Notion](https://chnlqsray-ai-project.notion.site/AI-3213da042d978062a5cbec6d9b37e13a)
+📬 uklqsray@163.com · [Portfolio](https://chnlqsray.github.io/)
